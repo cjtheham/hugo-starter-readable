@@ -1,0 +1,3 @@
+[submodule "themes/readable"]
+	path = themes/readable
+	url = https://github.com/cjtheham/hugo-theme-readable

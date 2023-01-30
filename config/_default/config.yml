@@ -1,0 +1,14 @@
+theme: 'readable'
+title: 'Your Title'
+
+languages:
+  en:
+    languageName: English
+    menu:
+      main:
+      - name: Blog
+        url: /posts
+        weight: 10
+      - name: Home
+        url: /
+        weight: 1
