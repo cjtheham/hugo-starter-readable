@@ -12,3 +12,9 @@ languages:
       - name: Home
         url: /
         weight: 1
+
+frontmatter:
+  lastmod:
+  - lastmod
+  - date
+  - publishDate
