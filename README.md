@@ -1,5 +1,7 @@
 # Hugo Readable Template
 
+## Now hosted at the official Freedom to Write Codeberg - https://codeberg.org/Freedom-to-Write/hugo-starter-readable
+
 To use this template, simply clone this site, update the config files, and follow the Hugo documentation for making new posts and deploying!
 
 # Steps to Deploy
